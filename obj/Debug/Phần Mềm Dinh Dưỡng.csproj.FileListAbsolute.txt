@@ -1,0 +1,11 @@
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\obj\Debug\Phần Mềm Dinh Dưỡng.csproj.AssemblyReference.cache
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\obj\Debug\Phần_Mềm_Dinh_Dưỡng.Form1.resources
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\obj\Debug\Phần_Mềm_Dinh_Dưỡng.Properties.Resources.resources
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\obj\Debug\Phần Mềm Dinh Dưỡng.csproj.GenerateResource.cache
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\obj\Debug\Phần Mềm Dinh Dưỡng.csproj.CoreCompileInputs.cache
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\bin\Debug\Phần Mềm Dinh Dưỡng.exe.config
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\bin\Debug\Phần Mềm Dinh Dưỡng.exe
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\bin\Debug\Phần Mềm Dinh Dưỡng.pdb
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\obj\Debug\Phần Mềm Dinh Dưỡng.exe
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\obj\Debug\Phần Mềm Dinh Dưỡng.pdb
+D:\Dự án Phần mềm quản lý\Phần Mềm Dinh Dưỡng\Phần Mềm Dinh Dưỡng\obj\Debug\Phần_Mềm_Dinh_Dưỡng.Form_Quản_Lý_Chung.FormTrangChu.resources
